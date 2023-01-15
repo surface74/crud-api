@@ -1,0 +1,13 @@
+{
+"eqeqeq": true,
+"esversion": 9,
+"undef": true,
+"latedef": "nofunc",
+"strict": false,
+"browser": true,
+"devel": true,
+"trailing": true,
+"curly": true,
+"jquery": true,
+"node": true
+} 

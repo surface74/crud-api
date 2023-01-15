@@ -1,2 +1,2 @@
-# rest-api
+# CRUD API
 RS Shcool NodeJS 2022Q4
